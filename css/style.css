@@ -1,0 +1,24 @@
+.left-block {
+	width: 250px;
+	height: 320px;
+	background-color: blue;
+}
+.center-block {
+	width: 250px;
+	height: 320px;
+	background-color: yellow;
+}
+.right-block {
+	width: 250px;
+	height: 320px;
+	background-color: red;
+}
+.flex-wraper{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.border {
+	border-color: #3D37F1;
+	border-radius: 38px;
+}
